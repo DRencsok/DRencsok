@@ -20,6 +20,8 @@
 - 🗄️ Learning and building with Django, PostgreSQL and REST APIs
 - 🛠️ Interested in backend development and software engineering
 - 🎓 Completed CS50P and CS50x by Harvard
+- 🧠 Focused on building strong CS fundamentals before leveraging AI-assisted development
+
 ### Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -39,7 +41,7 @@ The plan is to solve it first with a greedy algorithm, then with CP-SAT (Google 
 ### Top languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRencsok&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRencsok&layout=compact&theme=transparent&hide_border=true&hide=css" alt="Top languages" />
 </p>
 
 
