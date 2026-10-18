@@ -41,7 +41,7 @@ The plan is to solve it first with a greedy algorithm, then with CP-SAT (Google 
 ### Top languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRencsok&layout=compact&theme=transparent&hide_border=true&hide=css" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRencsok&layout=compact&theme=transparent&hide_border=true&hide=css,html" alt="Top languages" />
 </p>
 
 
