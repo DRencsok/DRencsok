@@ -19,7 +19,7 @@
 - 🗄️ Learning and building with Django, PostgreSQL and REST APIs
 - 🛠️ Interested in backend development and software engineering
 - 🎓 Completed CS50P and CS50x by Harvard
-- 🧠 Focused on building strong CS fundamentals before leveraging AI-assisted development
+- 🧠 Focused on building strong CS fundamentals
 
 ### Tech stack
 
@@ -39,7 +39,7 @@ Turns a construction cut list into a cutting plan that wastes as little timber a
 - **Greedy (First-Fit Decreasing):** under 20 ms even at 500 pieces.
 - **CP-SAT (Google OR-Tools):** an exact constraint model. It cut waste to 4.2 % vs 9.8 % for greedy on 10-piece jobs.
 
-Use it from the CLI or the REST API (Django REST Framework, OpenAPI docs).It is Dockerized and deployed on Render. The optimizer core is a plain Python package with no Django dependency.
+Use it from the CLI or the REST API (Django REST Framework, OpenAPI docs).It is Dockerized and deployed on Render.
 
 ![OR-Tools](https://img.shields.io/badge/OR--Tools-4285F4?style=flat-square&logo=google&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square)
